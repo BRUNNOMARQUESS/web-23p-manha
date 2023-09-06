@@ -1,0 +1,21 @@
+@charset "UFT-8";
+
+body{
+    background-image: url(/imagem/FT.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+nav{
+    text-align: center;
+    color: transparent;
+    color: white;
+}
+a{
+    color: white;
+}
